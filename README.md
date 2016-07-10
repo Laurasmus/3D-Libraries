@@ -2,4 +2,6 @@
 Library for 3D Representation of Scientific Data for Research in Nanolectronics with Blender
 
 
-In this project I developed a set of scripts in Python to be used in Blender for automatic generation of graphical representation of data coming from simulations in the field of nanoelectronics. We worked on programming libraries for the representation of wave functions in semiconductor quantum dots, data provided by the University of Leeds (United Kingdom) within an international research collaboration. We also worked in the representation of the set process and thermal distribution in resistive RAM memories made of HfO2 simulated in the Electronics Department of University of Granada and measured in CNM Barcelona (National Centre for Microelectronic in Barcelona).
+In this project we have developed two libraries for 3D Representation of Scientific Data for two research lines carried out in the Electronics Department of the University of Granada. One of them is done in collaboration with CNM Barcelona (National Centre for Microelectronics) and the other one with the University of Leeds (United Kingdom).
+
+We used free software tools and have generated a series of scripts tailored to the needs of the researcher. Throughout the project we have made interviews with both clients to know what requirements should have the final product and the result of our work is a scientific video generated automatically.
